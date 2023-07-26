@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Webticari Software
+- 🌱 I’m currently learning Laravel
+- 💬 Ask me about PHP,OOP,JS
+- 📫 How to reach me: gunesibrahim.x@gmail.com
 <!--
 **ibrahimgunes0/ibrahimgunes0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
