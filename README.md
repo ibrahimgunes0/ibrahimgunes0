@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Webticari Software
+- 🔭 I’m currently working on Webticari Software (webticari.net)
 - 🌱 I’m currently learning Laravel
 - 💬 Ask me about PHP,OOP,JS
 - 📫 How to reach me: gunesibrahim.x@gmail.com
