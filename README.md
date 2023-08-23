@@ -6,7 +6,7 @@
 
 <details>
   <summary>Github Statistics...</summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=ibrahimgunes0&show_icons=true&theme=dracula">
   </p>
 </details>
