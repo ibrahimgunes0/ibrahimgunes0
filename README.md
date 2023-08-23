@@ -10,3 +10,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ibrahimgunes0&show_icons=true&theme=dracula">
   </p>
 </details>
+
+<details>
+  <summary>Language Statistics...</summary>
+  <p>
+    <img src="https://wakatime.com/share/@4e0e8f30-4d40-4211-b8c6-dd636446c236/eade3c3e-9f52-44e6-a743-cbffdc08e7f6.svg">
+  </p>
+</details>
