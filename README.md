@@ -9,7 +9,7 @@
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=ibrahimgunes0&show_icons=true&theme=dracula">
   </p>
-</details>
+</details> 
 
 <details>
   <summary>Language Statistics...</summary>
