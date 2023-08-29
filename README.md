@@ -10,13 +10,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimgunes0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ibrahimgunes0&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <details>
   <summary>Language Statistics...</summary>
   <p>
-    <img height="500px" src="https://wakatime.com/share/@4e0e8f30-4d40-4211-b8c6-dd636446c236/f872322f-d65e-4d48-8929-6d8cdcf21107.svg">
+    <img height="200px" src="https://wakatime.com/share/@4e0e8f30-4d40-4211-b8c6-dd636446c236/f872322f-d65e-4d48-8929-6d8cdcf21107.svg">
   </p>
 </details>
