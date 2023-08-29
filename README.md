@@ -4,12 +4,15 @@
 - 💬 Ask me about PHP,OOP,JS
 - 📫 How to reach me: gunesibrahim.x@gmail.com
 
-<details>
-  <summary>Github Statistics...</summary>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ibrahimgunes0&show_icons=true&theme=dracula">
-  </p>
-</details> 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ibrahimgunes0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimgunes0&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimgunes0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ibrahimgunes0&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <details>
   <summary>Language Statistics...</summary>
