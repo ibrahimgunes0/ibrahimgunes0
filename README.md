@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Webticari Software (www.webticari.net)
-- 🌱 I’m currently learning Laravel
-- 💬 Ask me about PHP,OOP,JS
+- 🌱 I’m currently learning React
 - 📫 How to reach me: gunesibrahim.x@gmail.com
 
 # 📊 GitHub Stats:
