@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Kolay Randevu (www.kolayrandevu.com)
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Azure
 - 📫 How to reach me: gunesibrahim.x@gmail.com
 
 
